@@ -1,4 +1,4 @@
-# Pɧơɛnıх
+# Kιɾƚԋι
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a Marie fork, Pɧơɛnıх was created for personal use by [this person](https://t.me/TheRealPhoenix). Feel free to add it to your groups though!
